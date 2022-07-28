@@ -59,48 +59,48 @@ export default {
         {
           name: "Glass",
           artist: "GalBoy",
-          src: "./public/songs/one.mp3",
-          image: "./public/images/a-1.jpg",
+          src: "./songs/one.mp3",
+          image: "./images/a-1.jpg",
           duration: "02:47",
           id: 1
         },
         {
           name: "Cup",
           artist: "CpuBoy",
-          src: "./public/songs/two.mp3",
-          image: "./public/images/a-2.jpg",
+          src: "./songs/two.mp3",
+          image: "./images/a-2.jpg",
           duration: "03:14",
           id: 2
         },
         {
           name: "Calculator",
           artist: "CalBoy",
-          src: "./public/songs/three.mp3",
-          image: "./public/images/a-3.jpg",
+          src: "./songs/three.mp3",
+          image: "./images/a-3.jpg",
           duration: "01:55",
           id: 3
         },
         {
           name: "Clock",
           artist: "ClockBoy",
-          src: "./public/songs/four.mp3",
-          image: "./public/images/a-4.jpg",
+          src: "./songs/four.mp3",
+          image: "./images/a-4.jpg",
           duration: "02:26",
           id: 4
         },
         {
           name: "Book",
           artist: "BookBoy",
-          src: "./public/songs/five.mp3",
-          image: "./public/images/a-5.jpg",
+          src: "./songs/five.mp3",
+          image: "./images/a-5.jpg",
           duration: "02:34",
           id: 5
         },
         {
           name: "Key",
           artist: "KeyBoy",
-          src: "./public/songs/six.mp3",
-          image: "./public/images/d-5.jpg",
+          src: "./songs/six.mp3",
+          image: "./images/d-5.jpg",
           duration: "02:36",
           id: 6
         }
